@@ -14,7 +14,7 @@
     </div>
     
     <div class="min-w-max">
-        <a href="">en</a>
-        <a href="">tr</a>
+        <a href="">🇹🇷</a>
+        <a href="">🇺🇳</a>
     </div>
 </div>
