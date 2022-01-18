@@ -6,3 +6,11 @@
     margin: 0 auto;
     max-width: 1200px;
 }
+
+.section-heading{
+    @apply font-bold text-center text-4xl mb-10
+}
+
+.fullwidth-btn{
+    @apply bg-blue-700 text-white px-6 py-2 rounded w-full inline-block text-center
+}
